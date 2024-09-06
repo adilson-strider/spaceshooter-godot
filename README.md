@@ -1,4 +1,4 @@
-# spaceshooter-godot
+# Spaceshooter
 ## Description 
 
 "Spaceshooter" is an intense arcade action game developed in Godot, where players control a spaceship in a battle against swarms of enemies in space. With retro graphics and fast-paced gameplay, the game challenges reflexes and strategic skills as players collect power-ups, face powerful bosses, and aim for the highest score possible.
@@ -17,7 +17,7 @@ Godot 3.5.3 stable version
 
 The main features of the application are:
 
-Intense difficulty
+Intense difficulty  
 So many enemies, meteors and powerups!
  
 
