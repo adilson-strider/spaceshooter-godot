@@ -22,15 +22,14 @@ So many enemies, meteors and powerups!
  
 
 ## Links
-  - App Link: [https://drive.google.com/drive/folders/1ZD7Oiqk4uhAV6fe5WrsMdbnzTe0qUP8_?usp=sharing](https://strider99.itch.io/space-shooter)
+(https://strider99.itch.io/space-shooter)
   
 ## Versioning
 
 1.0.0.0
 
 ## Authors
-
-* **Adilson da Silva Santos Junior** 
+**Adilson da Silva Santos Junior** 
 
 Please follow github and join us!
 Thanks to visiting me and good coding!
