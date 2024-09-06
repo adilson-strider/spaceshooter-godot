@@ -11,7 +11,7 @@ Godot 3.5.3 stable version
 
 ## How to use
 
-### 1 - Access the link and click 'Run' button <3 <3
+Access the link and click 'Run' button <3 <3
 
 ## Features
 
