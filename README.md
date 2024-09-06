@@ -17,7 +17,7 @@ Godot 3.5.3 stable version
 
 The main features of the application are:
 
-Intense difficulty  
+Intense difficulty;  
 So many enemies, meteors and powerups!
  
 
